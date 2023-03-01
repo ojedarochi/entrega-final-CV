@@ -1,0 +1,48 @@
+body{
+    font-family: 'Manrope';
+}
+
+.navbar{
+    font-weight: 700;
+}
+
+
+#subtitulo{
+    color: rgb(99, 146, 200);
+}
+
+#sobre-mi{
+    background-color: lightyellow;
+}
+
+#formulario{
+    background-color: #dbf6b2;
+}
+
+.nav-link.nav1:hover{
+    color: #6583de;
+}
+
+.nav-link.nav2:hover{
+    color: #e77ea8;
+}
+
+.nav-link.nav3:hover{
+    color: #a2bb7c;
+}
+
+.progress-bar.progress-1{
+    background-color: rgb(97, 144, 211);
+}
+
+.progress-bar.progress-2{
+    background-color: orange;
+}
+
+.progress-bar.progress-3{
+    background-color: rgb(141, 104, 200);
+}
+
+.progress-bar.progress-4{
+    background-color: rgb(162, 187, 124);
+}
